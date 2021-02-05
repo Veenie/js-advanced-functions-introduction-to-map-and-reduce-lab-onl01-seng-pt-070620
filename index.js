@@ -1,5 +1,6 @@
 // Your code here
 
+<<<<<<< HEAD
 function mapToNegativize(arr) {
   let r = []
   for (let i = 0; i < arr.length; i++ ) {
@@ -53,3 +54,8 @@ function reduceToAnyTrue(src) {
   }
   return false
 }
+=======
+function mapToNegativize(sourceArray){
+  sourceArray * -1
+}
+>>>>>>> 20898821814e0a6ca5c46df35780ef6c5b33ba52
